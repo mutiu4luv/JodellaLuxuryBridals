@@ -106,6 +106,10 @@ export default function WeddingGownCards() {
 
   return (
     <Container>
+      <Typography variant="h4" align="center" gutterBottom color="red">
+        Few Gowns In The Store
+      </Typography>
+
       <Grid container spacing={3} justifyContent="center" alignItems="center">
         {displayedGowns.map((gown) => (
           <Grid item key={gown.id} xs={12} sm={6} md={4}>
