@@ -1,0 +1,135 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Business Development",
+      "description": "An Expert in Business Development. "
+    },
+    {
+      "id": "2",
+      "src": "./img/inv.png",
+      "title": "Crypto Investment",
+      "description": "An Expert in crypto Investment and crypto currency mining."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "Investment Banker  &  Consultant",
+      "description": "A Consultant & Expert in Investment Banking."
+    },
+    {
+      "id": "4",
+      "src": "./img/tag-1.png",
+      "title": "Crypto exchanges and Crypto wallets",
+      "description": "An Expert in crypto exchange & crypto wallets."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Ahuse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "App Dashboard",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "Easy Rentn",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Jodella Bridals made my wedding day a fairytale! The gown was simply breathtaking — elegant, timeless, and perfectly tailored to me. I received so many compliments!",
+      "author_name": "Dianne Russel",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "From the first fitting to the final look, Jodella Bridals exceeded my expectations. My dress was a dream come true — delicate lace, flawless fit, and pure magic!",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "I felt like a queen in my wedding gown from Jodella Bridals. The attention to detail was unmatched, and the fabric was luxurious. It was more than a dress — it was a masterpiece.",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    },
+    {
+      "id": "4",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Jodella Bridals transformed my vision into reality. The gown fit like a glove, and the intricate design left everyone in awe. I couldn’t have asked for anything more perfect.",
+      "author_name": "Emily Johnson",
+      "author_designation": "Chanel"
+    },
+    {
+      "id": "5",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "My Jodella Bridals gown was simply magical. The fit, the elegance, the delicate beading — everything was flawless. I felt stunning and confident walking down the aisle.",
+      "author_name": "Sophia Lee",
+      "author_designation": "Gucci"
+    },
+    {
+      "id": "6",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Wearing a Jodella Bridals dress was the best decision I made. It was classic yet modern, romantic yet bold. I was showered with compliments the entire day!",
+      "author_name": "Olivia Brown",
+      "author_designation": "Versace"
+    },
+    {
+      "id": "7",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Jodella Bridals made me feel like royalty. The dress sparkled with elegance, and every detail was meticulously crafted. It was truly a once-in-a-lifetime experience.",
+      "author_name": "Isabella Moore",
+      "author_designation": "Prada"
+    },
+    {
+      "id": "8",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "I couldn’t stop twirling in my Jodella Bridals wedding dress! It was the perfect blend of classic and chic. I felt radiant, and the compliments just kept coming.",
+      "author_name": "Emma Taylor",
+      "author_designation": "Dior"
+    },
+    {
+      "id": "9",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Jodella Bridals created the most stunning gown for me. The lacework, the silhouette — pure perfection. I felt like a goddess on my special day.",
+      "author_name": "Ava Wilson",
+      "author_designation": "Burberry"
+    },
+    {
+      "id": "10",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Choosing Jodella Bridals was the highlight of my wedding preparations. My dress was graceful, unique, and made me feel absolutely beautiful.",
+      "author_name": "Mia Anderson",
+      "author_designation": "Fendi"
+    }
+  ]
+
+ 
+}
